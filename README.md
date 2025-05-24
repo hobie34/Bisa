@@ -1,2 +1,1 @@
-# Bisa
-A simple Rust project
+# email management ai assistant 
